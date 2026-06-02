@@ -1,4 +1,5 @@
 # Estruturas (Linguagem C)
+Estruturas são tipos de dados compostos que permitem agrupar diferentes tipos de dados sob um mesmo nome. Em C, as estruturas são definidas usando a palavra-chave struct. Elas são úteis para organizar e representar dados complexos de forma mais clara e eficiente.
 ## Tecnologias
 - Linguagem C
 - DevC++
